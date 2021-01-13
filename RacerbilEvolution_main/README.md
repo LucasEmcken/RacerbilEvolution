@@ -1,4 +1,4 @@
-**Valg af løsning:**
+**Valg af løsning**
 
 Til at løse problemstillingen udformede jeg min egen kunstige intelligens, der bygger på et
 Deep Feedforward netværk, der består af 5 lag, 1 input layer, 3 hidden layers, og det sidste
